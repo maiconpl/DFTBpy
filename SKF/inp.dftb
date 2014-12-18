@@ -1,0 +1,11 @@
+# DFTB input 19/08/2011 01:39 am Bremen, Germany
+# Atom type
+ O H
+# Maximum angular momentum
+ p s
+# number of atoms
+ 3
+# xyz coordinates in angstrom
+ O 0.0 0.0 0.0
+ H 0.0 0.0 3.0
+ H 3.0 0.0 0.0

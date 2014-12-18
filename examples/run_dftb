@@ -1,0 +1,4 @@
+#!/bin/sh
+# profile
+#python -m cProfile -o rep.prof $HOME/workspace/DFTBpy-1.0.55/build/lib.linux-x86_64-2.7/src/dftbpy
+$HOME/workspace/DFTBpy-1.0.55/build/lib.linux-x86_64-2.7/src/dftbpy

@@ -1,0 +1,23 @@
+# 17/12/2014
+Installing:
+
+1- You need to have installed:
+python 2.7 or newer 2.x.
+gcc compiler.
+numpy and scipy.
+
+2- To install DFTBpy just do in the main DFTBpy folder:
+
+python setup.py build
+
+3) Got to the examples folder and then edit the run_dftb.sh file:
+
+$HOME/DFTBpy/build/lib.linux-x86_64-2.7/src/dftbpy
+
+4) As the input template ('inp.dftb') is there with the SLAKOs path, execute:
+
+./run_dftb.sh
+or
+sh run_dftb.sh
+
+5) That's it... Enjoy!!!
