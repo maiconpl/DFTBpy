@@ -6,6 +6,7 @@ DFTBpy is an open source project and the result of a long spare time work and ef
 The aims of the project are:
 
 1) To have an easier to modify and extend computational chemistry code based on Density Functional Theory (DFT): SCC-DFTB. The program is developed in Python with C extensions, for performance reasons.
+
 2) To motivate undergraduate and graduate students as well as researchers to participate of the software development cycle.
 
 3) To allow the students to understand, due to the nice features of Python, how a computational chemistry/physics
